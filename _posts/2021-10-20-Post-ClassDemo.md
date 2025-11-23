@@ -3,12 +3,8 @@ layout: posts
 title: مصاحبه با آقای بیات‌خانی
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+# My first computer art project
+
 
 [my favorite website](http://www.google.com)
 
@@ -17,7 +13,12 @@ kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/grouppic.jpg "My painting")
+
+... python 
+
+...
+
 
 ---
 **Test**: This is atest
