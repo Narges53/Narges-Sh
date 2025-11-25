@@ -3,11 +3,11 @@ layout: posts
 title: Forest painting
 ---
 
-# My first computer art project
+## My first computer art project
 
 
 
-![alt text](../assets/images/Screenshot (2).png "painting Picture")
+![My painting](../assets/images/painting.jpg "painting Picture")
 
 
 ``` python
@@ -130,47 +130,7 @@ def tre():
     h.shapesize(3)
 tre()
 
-def su():
-    color=(34,26,2)
-    k= turtle.Turtle()
-    k.color(color)
-    k.penup()
-    k.setpos(-150,-220)
-    k.pendown()
-    k.shape("square")
-    k.shapesize(3, stretch_len=8)
-su()
-def mo():
-    color=(54,40,4)
-    t = turtle.Turtle()
-    t.fillcolor(color)
-    t.begin_fill()
-    t.penup()
-    t.setpos(-201,-141)
-    t.pendown()
-    t.forward(100)
-    t.right(120)
-    t.forward(62)
-    t.right(60)
-    t.forward(100)
-    t.right(120)
-    t.forward(62)
-    t.end_fill()
-    t.hideturtle()
 
-mo()
-
-def door():
-    c=(54,40,4)
-    t=turtle.Turtle()
-    t.shape("square")
-    t.shapesize(1)
-    t.color(c)
-    t.penup()
-    t.setpos(-100,-230)
-    t.pendown()
-door()
-turtle.update()
 turtle.mainloop()
 
 
@@ -178,4 +138,4 @@ turtle.mainloop()
 ```
 
 ---
-**title**: jungle with puthon
+**description**: jungle with puthon
