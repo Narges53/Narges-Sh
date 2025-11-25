@@ -12,7 +12,9 @@ title: My favorite books
 * Author: Blake Crouch
 
 
-[my favorite website](http://www.https://taaghche.com/)
+
+[my favorite website](
+https://taaghche.com)
 
 The Educated is a fascinating autobiography by Tara Westover.
 The Brothers Karamazov is one of Dostoevsky's most famous novels.
