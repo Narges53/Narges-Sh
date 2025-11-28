@@ -7,7 +7,7 @@ title: Forest painting
 
 
 
-![My painting](../assets/images/painting.jpg "painting Picture")
+![My painting](../assets/images/painitg.jpg "painting Picture")
 
 
 ``` python
@@ -103,38 +103,7 @@ def sabzeh():
  t.hideturtle()
 for i in range(4000):
  sabzeh()
-
-
-
-
-
-def sq():
-    color=(40,57,4)
-    t = turtle.Turtle()
-    t.color(color)
-    t.penup()
-    t.setpos(-100,-220)
-    t.shape("square")
-    t.shapesize(3)
-sq()
-
-def tre():
-    # color=(74,57,4)
-    color=(34,26,2)
-    h = turtle.Turtle()
-    h.color(color)
-    h.setheading(90)
-    h.penup()
-    h.setpos(-100,-173)
-    h.shape("triangle")
-    h.shapesize(3)
-tre()
-
-
-turtle.mainloop()
-
-
-
+ 
 ```
 
 ---

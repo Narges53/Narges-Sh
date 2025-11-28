@@ -1,16 +1,16 @@
 ---
 layout: single
 author_profile: true
-permalink: /links/
-title: Links
-tags: [Studying, courses]
-modified: 9-14-2019
+permalink: /etertainment/
+title: favorite works
+tags: [lovely works]
+modified: 2025-11-28
 comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
 
+* [Favorite Author](http://https://https://en.wikipedia.org/wiki/Dale_Carnegie)
+* [Places I want to visit](http://https://en.wikipedia.org/wiki/Colosseum)
+* [My home city](http://https://en.wikipedia.org/wiki/Gonabad)
+* [My university](http://https://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology)
